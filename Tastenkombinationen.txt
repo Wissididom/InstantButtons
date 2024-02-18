@@ -1,0 +1,5 @@
+Strg+Alt+P = Play
+Strg+Alt+Pause = Pause
+Strg+Alt+R = Resume
+Strg+Alt+S = Stop
+Strg+Umschalttaste+P = Pause
